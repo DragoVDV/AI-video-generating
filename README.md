@@ -1,6 +1,6 @@
 # AI-video-generating
 
-AI Youtube Shorts Generator is a Python tool designed to generate engaging YouTube shorts from long-form videos. By leveraging the power of GPT-4 and Whisper, it extracts the most interesting highlights, detects speakers, and crops the content vertically for shorts. This tool is currently in version 0.1 and might have some bugs.
+AI Youtube Shorts Generator is a Python tool designed to generate engaging YouTube shorts from user desription based on given website. By leveraging the power of GPT-4 and Whisper, it extracts the most interesting highlights, detects speakers, and crops the content vertically for shorts. This tool is currently in version 0.1 and might have some bugs.
 
 
 
