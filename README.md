@@ -69,11 +69,3 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## Disclaimer
 
 This is a v0.1 release and might have some bugs.
-
-
-
-[AI B-roll generator](https://github.com/Anil-matcha/AI-B-roll)
-
-[No-code AI Youtube Shorts Generator](https://www.vadoo.tv/clip-youtube-video)
-
-[Sora AI Video Generator](https://www.vadoo.tv/sora-ai-video-generator)
