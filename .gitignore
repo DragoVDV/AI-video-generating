@@ -1,0 +1,22 @@
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Project directories
+old/
+shorts/
+
+# Text files with exceptions
+*.txt
+!response.txt
+!requirements.txt
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+.env
+.python-version
+
+.shorts/
